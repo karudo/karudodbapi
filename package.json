@@ -1,0 +1,27 @@
+{
+  "name": "karudoorm",
+  "version": "0.0.0",
+  "description": "orm for nodedbadmin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/karudo/karudoorm.git"
+  },
+  "keywords": [
+    "orm",
+    "mysql",
+    "mongo"
+  ],
+  "author": "Deonis Peretyagin <karudo@gmail.com> (https://github.com/karudo)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/karudo/karudoorm/issues"
+  },
+  "homepage": "https://github.com/karudo/karudoorm",
+  "dependencies": {
+    "rsvp": "^3.0.9"
+  }
+}
