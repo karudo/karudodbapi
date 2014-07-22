@@ -23,9 +23,7 @@
   },
   "homepage": "https://github.com/karudo/karudodbapi",
   "dependencies": {
+    "lodash": "^2.4.1",
     "rsvp": "^3.0.9"
-  },
-  "devDependencies": {
-    "coffee-script": "^1.7.1"
   }
 }
