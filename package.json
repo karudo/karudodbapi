@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/karudo/karudodbapi",
   "dependencies": {
-    "lodash": "^2.4.1",
-    "rsvp": "^3.0.9"
+    "bluebird": "^2.2.2",
+    "lodash": "^2.4.1"
   }
 }
